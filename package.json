@@ -1,0 +1,15 @@
+{
+  "name": "scrappy",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/paolo-chiabrera/scrappy.git",
+  "author": "=paolo.chiabrera <=paolo.chiabrera@gmail.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^3.1.0",
+    "is-url": "^1.2.2",
+    "puppeteer": "^0.13.0"
+  }
+}
